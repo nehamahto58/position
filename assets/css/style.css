@@ -133,6 +133,36 @@ color: #000000;
     margin: 50px 0px;
 }
 @media (max-width: 768px){
+    #bg1 .intro-title{
+        margin-top: 20px;
+        font-size: 26px;
+        margin-bottom: 13px;
+        width: 100%;
+    }
+    #bg1 .intro-subtitle{
+        margin-bottom: 12px;
+        width: 100%;
+    }
+    .avail h5{
+        font-size: 16px;
+    }
+    .avail img{
+        width: 30px;
+        height: 30px;
+    }
+    .inp{
+        margin-bottom: 10px;
+    }
+    .show img{
+        justify-self: center;
+    }
+    .show h5 p{
+        text-align: center;
+        width: 100%;
+    }
+    .buton1{
+        margin-bottom: 10px;
+    }
     .footer-section h3{
         text-align: center;
     }
